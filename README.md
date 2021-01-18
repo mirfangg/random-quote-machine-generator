@@ -1,1 +1,1 @@
-# random-quote-machine-generator
+# Random Quote Machine of freeCodeCamp challenge
